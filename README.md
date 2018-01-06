@@ -1,3 +1,2 @@
 # Simple Line  
- Hash space simple line double space Enter next line  
- This is my third update 
+ Hash space simple line double space Enter next line
